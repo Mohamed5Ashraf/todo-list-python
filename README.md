@@ -15,4 +15,23 @@ It’s a beginner-friendly project to practice Python basics like lists, loops, 
 ---
 
 ## 📂 Project Structure
+📦 To-Do-List-Manager
+ ┣ 📜 to do list manager.py   # Main Python file
+ ┣ 📜 README.md               # Project documentation
+
+---
+
+## ⚙️ Installation & Usage
+```bash
+# Clone this repository
+git clone https://github.com/YourUsername/To-Do-List-Manager.git
+
+# Navigate into the project folder
+cd To-Do-List-Manager
+
+# Run the script
+python "to do list manager.py"
+
+
+
 
